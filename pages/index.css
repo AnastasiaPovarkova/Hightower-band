@@ -1,0 +1,19 @@
+@import url(../vendor/normalize.css);
+/* @import url(../vendor/fonts/fonts.css); */
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/text/info__text.css);
+@import url(../blocks/info/social/info__social.css);
+@import url(../blocks/info/social/info__social-text.css);
+@import url(../blocks/info/phone/info__phone.css);
+@import url(../blocks/info/button/info__button.css);
+@import url(../blocks/info/social/info__social-icon.css);
+@import url(../blocks/info/contacts/info__contacts.css);
+@import url(../blocks/info/contacts/info__contacts-social.css);
+@import url(../blocks/info/contacts/info__contacts-icon.css);
+@import url(../blocks/info/link/info__link.css);
+@import url(../blocks/info/social/info__social-icon.css);

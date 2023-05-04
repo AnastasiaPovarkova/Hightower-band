@@ -1,0 +1,6 @@
+.info__contacts-social {
+  margin: 24px auto 0;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}

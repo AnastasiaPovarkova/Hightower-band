@@ -1,0 +1,13 @@
+.info__button {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px; /* identical to box height */
+  text-align: center;
+  color: #FFFFFF;
+  width: 298px;
+  height: 47px;
+  background: #000000;
+  border: none;
+  border-radius: 8px;
+}
